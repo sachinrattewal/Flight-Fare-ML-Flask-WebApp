@@ -1,0 +1,29 @@
+body {
+    background-color: #cae9e7;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #2f2626;
+    color: white;
+    margin: auto auto;
+    padding: 10px 20px;
+}
+a{
+    font-size: 40px;
+    font-weight: bolder;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    margin: auto;
+}
+a:hover {
+    color: #f0f0f0;
+}
+.btn{
+    padding: 12px;
+    width: 120px;
+    font-size: 20px;
+    outline: none;
+    overflow: none;
+}
